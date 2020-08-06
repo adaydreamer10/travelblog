@@ -1,0 +1,100 @@
+<style>
+#name{
+  font-size: 1.5em ;
+  font-weight: bold;
+  margin: 4px;
+}
+h1, h2 {
+  font-size: 2em;
+  font-family: cursive;
+  line-height: 1.5em;
+  text-align: center;
+}
+#title {
+  background-color: purple;
+  color: rgb(255, 255, 255)
+}
+#swi-flag {
+  background-color: red;
+  color: white
+}
+#holland {
+  background-color: blue;
+  color: white;
+}
+body{
+  background-color: rgb(241, 242, 233);
+  font-family: sans-serif;
+  font-size: 18px ;
+  line-height: 1.5em;
+}
+.list{
+  font-family: cursive;
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+.cities{
+  font-size: 1.3em
+}
+.countries{
+  font-size: 1.4em;
+}
+#all-page{
+  width: 70%;
+  margin: auto;
+}
+#sagrada-familia{
+    float: left;
+  position: relative;  
+  margin-right: 30px;
+  width: 250px;
+}
+#windmil{
+  position: relative;
+  left: 75px;
+  width: 300px;
+}
+#canal {
+  position: relative;
+  left: 225px;
+  width: 300px;
+}
+#Interlaken{
+  position: relative;
+  left: 75px;
+  width: 300px;
+}
+#bern{
+  position: relative;
+  left: 225px;
+  width: 300px;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  background-color: rgb(270, 276, 14);
+  font-family: inherit;
+  font-weight: bold;
+}
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+th {
+  font-size: 1.5em;
+  color: whit;
+  font-family: cursive;
+}
+#table-heading{
+  background: green;
+  color: white;
+}
+#table-body{
+  width: 70%;
+  margin: auto;
+}
+a:hover{
+  background-color: yellow;
+}
+
+</style>
